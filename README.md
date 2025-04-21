@@ -14,7 +14,7 @@ git clone https://github.com/JahmaliB/Forms.git
 
 2. Change your current directory to the project's directory using:
 ````
-cd forms
+cd Forms
 ````
 
 3. Install the dependencies needed to run the program using:
